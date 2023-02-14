@@ -1,5 +1,4 @@
 settings.py
-*.md
 env/
 *.log
 __pycache__/
